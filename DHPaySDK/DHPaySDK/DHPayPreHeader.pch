@@ -1,0 +1,15 @@
+//
+//  DHPayPreHeader.pch
+//  DHPaySDK
+//
+//  Created by Seven24 on 2017/4/15.
+//  Copyright © 2017年 Daniel. All rights reserved.
+//
+
+#ifndef DHPayPreHeader_pch
+#define DHPayPreHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <Foundation/Foundation.h>
+#endif /* DHPayPreHeader_pch */
